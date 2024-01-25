@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vitaly</h1>
-<h3 align="center">I'm developer from Ukraine</h3>
+<h1 align="left">Hi 👋, I'm Vitaly</h1>
+<h3 align="left">I'm developer from Ukraine</h3>
 
 - 🔭 I’m currently work **as a freelancer**
 
