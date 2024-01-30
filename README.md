@@ -71,6 +71,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
 </a> 
 <a href="https://grpc.io" target="_blank" rel="noreferrer">
-  <img src="https://user-images.githubusercontent.com/25181517/121258446-3214fb80-c8af-11eb-8db8-cb884a356803.png" alt="webpack" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/25181517/121258446-3214fb80-c8af-11eb-8db8-cb884a356803.png" alt="grpc" width="40" height="40"/>
+</a> 
+<a href="" target="_blank" rel="noreferrer">
+  <img src="https://user-images.githubusercontent.com/25181517/117208135-11134380-adf5-11eb-8878-040fd0f015b2.png" alt="rest" width="40" height="40"/>
 </a> 
 </p>
