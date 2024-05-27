@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Vitaly</h1>
 <h3 align="left">I'm developer from Ukraine</h3>
 
-- 👨‍💼 Currently working at PIN-UP.TECH at the position of Software Engineer
+- 👨‍💼 Currently working at <a href="https://www.linkedin.com/company/pin-up-tech" target="_blank" rel="noreferrer"> PIN-UP.TECH </a> at the position of Software Engineer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
